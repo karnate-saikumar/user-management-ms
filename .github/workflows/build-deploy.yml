@@ -15,7 +15,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: build-output
+          name: 123452024/user-management-ms
 
       - name: Deploy
         run: |
